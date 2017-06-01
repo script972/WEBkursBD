@@ -1,0 +1,15 @@
+<html>
+<head>
+    <title>Kurs</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div id="menu">
+        <ul>
+            <li><a href="goods.jsp">List products</a> </li>
+            <li><a href="addgood.jsp">Add products</a> </li>
+            <li><a href="customers.jsp">List customers </a> </li>
+            <li><a href="customer.jsp">Add supplier </a> </li>
+        </ul>
+    </div>

@@ -1,0 +1,10 @@
+#registration-form{
+    margin: auto;
+    border:1px solid palegreen;
+    padding:50px;
+    width: 30%;
+}
+
+#menu li{
+    display: inline-block;
+}
